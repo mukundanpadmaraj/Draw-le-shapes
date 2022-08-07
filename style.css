@@ -1,0 +1,15 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: firebrick;
+	border-radius: 20px;
+	margin-bottom: 50px;
+}
